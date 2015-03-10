@@ -1,0 +1,39 @@
+#Header{
+  height:40px;
+  width:200px;
+  background-color:blue;
+}
+
+#Header p{
+font-size:25px;
+  padding-top:5px;
+  color:white;
+}
+
+table{
+  position:relative;
+}
+
+.button{
+  height:100px;
+  width:100px;
+  display:inline-block;
+  position:relative;
+  border-radius:5px;
+}
+
+#topLeft{
+  background-color:Red;
+}
+
+#topRight{
+  background-color:blue;
+}
+
+#bottomLeft{
+  background-color:yellow;
+}
+
+#bottomRight{
+  background-color:green;
+}
